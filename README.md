@@ -13,7 +13,7 @@ The request from a client was to display a table organizing UFO data stored as a
 ![Pic 2](https://github.com/Baylex/UFOs/blob/main/static/images/bottom.PNG)
 
 ### How the filters appear after being used: 
-By typing in the suggested placeholder elements as the filters, the result returns 2 matches.  Click off the input box to initiate the filter.  To reset the search criteria, click the UFO Sightings at the top left. 
+By typing in the suggested placeholder elements as the filters, the result returns 2 matches.  Make sure to type everything in lower case letters and do not have spaces at the end of the text.  Click off the input box to initiate the filter.  To reset the filter criteria, click the UFO Sightings at the top left of the website. 
 
 ![Pic 3](https://github.com/Baylex/UFOs/blob/main/static/images/working_filters.PNG)
 
